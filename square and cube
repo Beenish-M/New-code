@@ -1,0 +1,16 @@
+#include <iostream.h>
+using namespace std;
+int main()
+{
+int s,c,n;
+cout<<"Enter a number";
+cin>>n;
+s=n*n;
+c=n*n*n;
+cout<<"Square is "<<s<<endl;
+cout<<"cube is "<<c;
+return 0;
+}
+
+
+
